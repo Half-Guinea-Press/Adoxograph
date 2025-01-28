@@ -1,0 +1,26 @@
+## Natural Resources
+- Timber
+- Fish
+- Furs
+- Iron
+- Copper
+- Silver
+- Wool
+- Amber
+- Cattle
+- Horses
+- Honey
+- Goats
+- Pigs
+- Barley
+- Rye
+- Oats
+- Wheat
+- Beans
+- Peas
+- Cabbage
+- Oions
+- Flax
+- Oxen
+- Sheep
+- Linen
